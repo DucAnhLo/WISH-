@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PermitTester
+comment0.text=\r\n\ PermitTester\ uses\ the\ Permit\ class\r\n\ It\ shows\ different\ ways\ of\ doing\ the\ same\ thing\:\r\n\ -\ declaring\ an\ object,\ \r\n\ -\ creating\ it,\r\n\ -\ calling\ its\ methods\r\n\ \r\n\ @author\ Duc\ Anh\ Lo\r\n\ @version\ 09.04.22\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
